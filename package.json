@@ -13,6 +13,7 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
+    "ax": "^0.2.2",
     "axios": "^0.26.0",
     "cors": "^2.8.5",
     "express": "^4.17.3",
